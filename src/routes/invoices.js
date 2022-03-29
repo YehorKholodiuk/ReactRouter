@@ -1,4 +1,5 @@
 import {
+    QueryNavLink,
     NavLink,
     Outlet,
     useSearchParams,
